@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: cw2016market
+  host: cw2016market
+  disk_quota: 1024M
